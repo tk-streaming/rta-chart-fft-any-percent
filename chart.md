@@ -119,26 +119,28 @@ XX---    M: 男性アイテム士 (ユニット番号4)
 X-CXX    C: アイテム士
 R-W-X    W: 黒魔道士
   ▼      R: ラムザ
-         R: ラムザ
 ```
 
 稼ぎ目標
 * アイテム士はジョブポイントを200貯めてジョブレベルを2にし，黒魔道士を解放する
 * ラムザも同様に黒魔道士を解放する（アイテム士のおこぼれJpで）
 * ラムザの見習い戦士の Jp を 500 にする（「ためる」と「エール」を習得するため）
-  * 見習い戦士のジョブレベルが 4 になってから 3, 4 回行動すれば達成される
+  * ジョブレベルが 4 になってから 3, 4 回行動すれば達成される
 
 戦術:
-- Zoom Out + L1 at some point
-- Move forward with Wizard and Bolt 2 a Squire if no other Squire moved forward
-- Move 3 spaces forward with Ramza and wait
-- Attack Delita with Chemist (May need to Equip Change into a Dagger or Mythril Dagger if Squire used Throw Stone and changed Delita's expected HP value)
-- Ramza uses an Ether on the Wizard
-- Delita moves + Defends
-- Wizard Bolt 2s the pack
-- Chemist attacks Delita from the back
-- Ramza moves to the panel left of Delita and kills him
-- Chemist moves onto the rock behind Ramza and attacks him
-- Wizard baits the cat so he gets stuck in front of Algus (away from corpses)
-- Ramza attacks Chemist from the left
-- Kill cat when done grinding
+* 適当なタイミングで `L1+L2`
+* 黒魔道士は4マス前に移動して「サンダラ」を敵見習い戦士に撃つ（ただし2人以上の敵見習い戦士が接近している場合を除く）
+* ラムザは3マス前に移動して待機
+* アイテム士はディリータの後ろに移動し，ディリータが死なないのであれば攻撃する
+  * 低くない確率で敵見習い戦士はディリータに投石をする
+* ラムザは黒魔道士に近接して「エーテル」を黒魔道士に使用する
+* 黒魔道士は「サンダラ」をレッドパンサー以外の敵集団およびアルガスに向けて撃っていき殲滅をする
+  * 岩と岩に挟まれた1マスのパネルでアルガスが気絶するようにする
+* アイテム士はディリータを背後から攻撃する
+* ラムザは左からディリータを攻撃して倒す
+* アイテム士はラムザの後ろの岩に移動し，ラムザを攻撃する
+* 黒魔道士がレッドパンサーをおびき寄せ，気絶したアルガスの南側にスタックさせる
+* ラムザがアイテム士を攻撃 or 「ポーション」で回復を繰り返して Jp を稼ぐ
+  * アイテム士の稼ぎが必要ならばラムザに対して同様の行動をとる
+* 稼ぎが終わったらレッドパンサーを倒す
+  * 黒魔道士のMPが確保されているなら，魔法で倒すのが楽
